@@ -103,4 +103,4 @@ Cada base foi tratada em camadas:
 
 Elivélton Neves de Alcântara  
 [Cientista de Dados | Engenheiro de Dados | Analista de Dados]  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil)
+[LinkedIn](https://www.linkedin.com/in/elivelton-neves-de-alc%C3%A2ntara-ab2192212/)
